@@ -10,16 +10,16 @@ It was implemented using OOP mainly the concepts of Overloading and Friend funct
       - Provide setters and getters.
       - Overload the operator ostream << to print the node information.
       - Create methods called AND() / OR() / XOR() to perform the logical operation between two nodes objects.
-  ------------------------------------------------------------------------------------------------------------------------------------------------  
+------------------------------------------------------------------------------------------------------------------------------------------------  
 * Class *Gate* has the following methods:
 
       - Default and non-default Constructors.
       - Provide getters and setters for its nodes.
       - Implement the gate types AND / OR / NAND / NOR / XOR / XNOR / NOT.
       - function simulateGate() returns the logic value of the gate according to its type.  
--------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
       
-![image](https://user-images.githubusercontent.com/69655655/192333438-e5e2acfd-05e5-40f8-b13b-5794607988c5.png)
+![image](https://user-images.githubusercontent.com/69655655/192333702-516690d6-f589-4eb9-a483-8b5c7c3d5f5e.png)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 * Class *Simulator* which accpets all types of gates then calculate circuits’ outputs, It has the following specifications:
 
