@@ -35,4 +35,4 @@ Class called "GateGenerator" that generates the nodes and all sepcified gates fr
 
        - Function parseInput() reads the inputs and parses each keyword ("SIM"/"OUT",..) to the appropriate logic.
        - Function createNode() creates a node and return its address.
-       - Function createGate() creates a (AND,OR,...) gates according to the input and return its address, it is advisable to use a factory function to have better practice on polymorphic objects.
+       - Function createGate() creates a (AND,OR,...) gates according to the input and return its address, it is advisable to use a factory function to have better\n practice on polymorphic objects.
